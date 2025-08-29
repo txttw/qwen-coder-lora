@@ -1,4 +1,4 @@
-# Fine-tuning a Coder model for specific code generation tasks
+# Fine-tuning a Coder model with LoRA for specific code generation tasks
 
 This project fine-tunes Qwen2.5-Coder-7B/13B with LoRA adapters to extend its code generation capabilities. Model size is constrained by this notebook to 7B/13B practically because a 35B or larger model would need multi GPU support.
 
